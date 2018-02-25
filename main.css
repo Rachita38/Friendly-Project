@@ -8,10 +8,17 @@
     color: white;
 }
 
-footer {
+#header ul .glyphicon {
+    font-size: 20px;
+}
+
+.white-text{
+    color:white !important;
+}
+/*footer {
   background-color: rgba(0,0,0,0.87);
   height: 30px;
-}
+}*/
 
 #wrapper {
   margin-top: 16px;
