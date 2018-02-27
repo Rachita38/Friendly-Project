@@ -11,8 +11,17 @@
 #header {
     background-color: #4267b2;
     color: white;
+    width: 100%;
 }
 
+.profile-image{
+    height:8%;
+    width:8%;
+    display: inline;
+    border-radius:50%;
+    overflow: hidden;
+    display: inline-block;
+}
 #header ul .glyphicon {
     font-size: 20px;
 }
