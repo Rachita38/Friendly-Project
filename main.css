@@ -15,12 +15,12 @@
 }
 
 .profile-image{
-    height:8%;
-    width:8%;
+    
     display: inline;
+    height:30px;
+    width:30px;
     border-radius:50%;
-    overflow: hidden;
-    display: inline-block;
+    
 }
 #header ul .glyphicon {
     font-size: 20px;
