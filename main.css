@@ -61,8 +61,14 @@
 #sidebar {
   height: 600px;
 }
-#main{
+#main, 
+#sidebar 
+{
     overflow:auto;
+}
+
+#sidebar::-webkit-scrollbar {
+  display: none;
 }
 
 #main::-webkit-scrollbar {
