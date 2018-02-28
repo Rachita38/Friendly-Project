@@ -15,8 +15,7 @@
 }
 
 .profile-image{
-    
-    display: inline;
+    display:inline;
     height:30px;
     width:30px;
     border-radius:50%;
@@ -71,11 +70,14 @@
 }
 .panel-title{
     color:blue;
-    font-style: oblique;
 }
+
 #main,
 #menu,
 #sidebar {
   background-color: #e9ebee;
 }
 
+.comment {
+    margin: 0;
+}
